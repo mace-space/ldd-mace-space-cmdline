@@ -3,13 +3,13 @@ PDS Validate Tool Report
 
 Configuration:
    Version                       2.1.4
-   Date                          2022-03-15T00:06:36Z
+   Date                          2022-03-15T00:09:20Z
 
 Parameters:
    Targets                       [file:/home/runner/work/ldd-mace-space-cmdline/ldd-mace-space-cmdline/test/test1_FAIL.xml]
    Rule Type                     pds4.label
-   User Specified Schemas        [file:/home/runner/work/ldd-mace-space-cmdline/ldd-mace-space-cmdline/build/development/e1db0d03707084032c71b5a4206fb3f3c14182ce/1.17.0.0/PDS4_EXAMPLE_1H00_1000.xsd, file:/tmp/PDS4_PDS_1H00.xsd]
-   User Specified Schematrons    [file:/home/runner/work/ldd-mace-space-cmdline/ldd-mace-space-cmdline/build/development/e1db0d03707084032c71b5a4206fb3f3c14182ce/1.17.0.0/PDS4_EXAMPLE_1H00_1000.sch, file:/tmp/PDS4_PDS_1H00.sch]
+   User Specified Schemas        [file:/home/runner/work/ldd-mace-space-cmdline/ldd-mace-space-cmdline/build/development/7e75eb1942d27ab8f56121d6a2cb96beaa219e64/1.17.0.0/PDS4_EXAMPLE_1H00_1000.xsd, file:/tmp/PDS4_PDS_1H00.xsd]
+   User Specified Schematrons    [file:/home/runner/work/ldd-mace-space-cmdline/ldd-mace-space-cmdline/build/development/7e75eb1942d27ab8f56121d6a2cb96beaa219e64/1.17.0.0/PDS4_EXAMPLE_1H00_1000.sch, file:/tmp/PDS4_PDS_1H00.sch]
    Severity Level                WARNING
    Recurse Directories           true
    File Filters Used             [*.xml, *.XML]
@@ -50,5 +50,5 @@ Summary:
     1            warning.label.missing_schematron_spec
 
 End of Report
-Completed execution in 5651 ms
+Completed execution in 4452 ms
 
